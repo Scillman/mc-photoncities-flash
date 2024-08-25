@@ -2,7 +2,7 @@
   "flash": {
     "subtitle": "sounds.fota.flash",
     "sounds": [
-      "fota:bell"
+      "fota:bell_mono"
     ]
   }
 }
